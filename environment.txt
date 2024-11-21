@@ -1,0 +1,8 @@
+主要的python包：
+Anaconda3
+python 3.10
+torch 2.1.2
+numpy 1.26.2
+scapy 2.5.0
+matplotlib 3.8.0
+pandas 2.1.1
